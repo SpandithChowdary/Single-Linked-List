@@ -1,5 +1,3 @@
-package Single_LinkedList;
-
 import java.util.Scanner;
 
 class Node{
