@@ -1,6 +1,13 @@
-package Single_LinkedList;
-
 import java.util.Scanner;
+
+class Node{
+	int data;
+	Node next;
+	public Node(int item) {
+		this.data = item;
+		this.next = null;
+	}
+}
 
 public class Insert_at_position {
 	private Node head;
